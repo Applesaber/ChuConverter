@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# dump outputs
+*_output.*
+*_to_ugc.*
