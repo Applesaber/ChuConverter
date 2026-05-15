@@ -2,6 +2,9 @@
 
 CHUNITHM 谱面格式转换工具 — C2S / UGC / SUS 三向互转。
 
+> [!IMPORTANT]
+> **本项目已集成至 [MuConvert](https://github.com/MuNET-OSS/MuConvert/)，本项目将暂时停止更新**
+
 ## 项目结构
 
 ```
